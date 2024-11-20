@@ -23,6 +23,7 @@ A modern, responsive restaurant website built with HTML, CSS, and JavaScript. Vi
 - Font Awesome icons
 
 ## Project Structure 📁
+
 restaurant-website/
 ├── css/
 │ └── style.css
