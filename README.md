@@ -22,17 +22,6 @@ A modern, responsive restaurant website built with HTML, CSS, and JavaScript. Vi
 - LightGallery.js for image gallery
 - Font Awesome icons
 
-## Project Structure 📁
-
-restaurant-website/
-├── css/
-│ └── style.css
-├── js/
-│ └── script.js
-├── images/
-│ └── [various image files]
-└── index.html
-
 ## Key Components 🔑
 
 ### Navigation
